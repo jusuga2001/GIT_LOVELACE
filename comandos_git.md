@@ -30,6 +30,10 @@
 - git log
 - git log --oneline
 
+## comando para cambiar de version 
+
+- git checkout <id del commit o nombre de la rama>
+
 ## pasos para crear una version de nuestro codigo
 
 1. agregar todos los archivos al commit
