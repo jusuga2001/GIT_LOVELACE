@@ -25,3 +25,5 @@ git push --all (cuando quiero subir todos los cambios de todas las ramas)
 
 git pull
 git pull nombre_conexion nombre_rama (antes de hacer git push hay que hacer git pull)
+
+# titulo 2 
