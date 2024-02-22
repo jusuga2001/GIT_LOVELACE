@@ -20,3 +20,7 @@ git branch -D nombre_rama
 # comando para cambiar el nombre de una rama
 
 git branch -M nuevo_nombre
+
+# comando para ignorar un archivo
+
+si el archivo no esta en git simplemente en el archivo .gitignore se guarda la ruta
